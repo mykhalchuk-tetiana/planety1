@@ -1,0 +1,163 @@
+body {
+    font-family: sans-serif;
+    Background-color: #1378d1;
+}
+
+.one {
+    Background-color: #e4ebf2;
+    Text-align: center;
+    Font-size: 60px;
+    color: #0d8bd4;
+}
+
+h3 {
+    Text-align: center;
+}
+
+.two {
+    Background-color: #bbdb18;
+    Text-align: center;
+    Font-size: 60px;
+    color: #db18ce;
+}
+
+.Three {
+    Background-color: #dba418;
+    Font-size: 28px;
+    color: #00f529;
+}
+
+.Four {
+    Background-color: #cc1091;
+    Text-align: Center;
+    Font-size: 60px;
+    color: #2571a7;
+}
+
+.Five {
+    Background-color: rgb(90, 97, 71);
+    font-size: 28px;
+    color: #59e916f1;
+}
+
+.six {
+    Background-color: #c894e3;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #16e6b2ac 68% 0%;
+}
+
+.Seven {
+    Background-color: #e27e2b;
+    Font-size: 28px;
+    color: #baf0a1;
+}
+
+.Eight {
+    Background-color: #d01f83;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #18d9bc;
+}
+
+.Nice {
+    Background-color: #bc75e0;
+    Font-size: 28px;
+    color: #f23a49;
+}
+
+.Eleven {
+    Background-color: #f61121fb;
+    Font-size: 28px;
+    color: #faefe7;
+}
+
+.Twelve {
+    Background-color: #6b7123;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #9b94e3;
+}
+
+.Thirteen {
+    Background-color: #ab2270;
+    Font-size: 28px;
+    color: #4000ff;
+}
+
+.Sixteen {
+    Background-color: #d694e3;
+    Text-align: Center;
+    Font-size: 30px;
+}
+
+.Fourteen {
+    Background-color: #96f408de;
+    Text-align: Center;
+    Font-size: 28px;
+    color: #8b1f5c;
+}
+
+.Fifteen {
+    Background-color: #bd8af8;
+    Font-size: 28px;
+    color: #4843ad;
+}
+
+.Sixteen {
+    Background-color: #4e98c7;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #94c916;
+}
+
+.Seventeen {
+    Background-color: hsla(330, 66%, 47%, 0.875);
+    Font-size: 28px;
+    color: #dff70fcf;
+}
+
+.Eighteen {
+    Background-color: #b9ed6b;
+    Text-align: Center;
+    Font-size: 30px;
+    color: #b33064;
+
+}
+
+.Nineteen {
+    Background-color: #ded5fe;
+    Font-size: 28px;
+    color: #c4a91d;
+}
+
+a {
+    Background-color: #7ccc0c;
+    Font-size: 30px;
+    color: #3b1985;
+    Border-radius: 30px;
+    Text-decoration: none;
+    Border: 6px dotted #e30b0f;
+    margin: 11px;
+    Padding: 8px;
+}
+
+P {
+    Border-radius: 20px;
+    Padding: 6px;
+    Border: 6px dotted #eb34d2;
+
+.button {
+    Border: 6px double #e30b0f;
+    padding: 11px;
+}
+
+Img {
+    Border: 13px double #fcb1ed;
+    padding: 10px;
+    Border-radius: 15px;
+}
+
+nav{
+    text-align: center;
+}
